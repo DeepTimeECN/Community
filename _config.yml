@@ -1,4 +1,16 @@
 plugins:
   - jekyll-remote-theme
 #remote_theme: benbalter/retlab
-theme: minimal-mistakes-jekyll
+theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site settings
+locale: "en-US"
+title: "Deep Time"
+subtitle: "Early Career Network"
+Description: "Increasing the visibility of the research undertaken by deep-time paleoscientists."
+url: "https://deeptimeecn.github.io"
+baseurl: "/Community"
+repository: "DeepTimeECN/Community"
+#teaser:
+#
