@@ -16,4 +16,5 @@ repository: "DeepTimeECN/Community"
   - https://code.jquery.com/jquery-3.2.1.min.js
   - /assets/js/your-custom-head-script.js
 #teaser:
-#
+logo: "assets/images/CrossSection_black.jpg"
+
