@@ -17,4 +17,5 @@ repository: "DeepTimeECN/Community"
   - /assets/js/your-custom-head-script.js
 #teaser:
 logo: "assets/images/CrossSection_black.jpg"
+masthead_title: "Deep Time Early Career Network"
 
