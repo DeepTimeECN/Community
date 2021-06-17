@@ -18,4 +18,4 @@ repository: "DeepTimeECN/Community"
 #teaser:
 logo: "assets/images/CrossSection_black.jpg"
 masthead_title: "Deep Time Early Career Network"
-
+search: true
