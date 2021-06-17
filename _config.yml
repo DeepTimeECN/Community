@@ -12,6 +12,6 @@ Description: "Increasing the visibility of the research undertaken by deep-time 
 url: "https://deeptimeecn.github.io"
 baseurl: "/Community"
 repository: "DeepTimeECN/Community"
-logo: "/assets/images/CrossSection_black.jpg"
+logo: "/assets/images/CrossSection.png"
 masthead_title: "Deep Time Early Career Network"
 search: true
